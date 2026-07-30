@@ -51,6 +51,18 @@ async def create_review(
             raise HTTPException(status_code=404, detail="Jogo não encontrado no RAWG")
         game = _get_or_cache_game(session, rawg_payload)
 
+    existing_review = session.exec(
+        select(Review).where(
+            Review.user_id == current_user.id,
+            Review.game_id == game.id,
+        )
+    ).first()
+    if existing_review:
+        raise HTTPException(
+            status_code=409,
+            detail="Você já possui uma review para este jogo",
+        )
+
     review = Review(
         user_id=current_user.id,
         game_id=game.id,
