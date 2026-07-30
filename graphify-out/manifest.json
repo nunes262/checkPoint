@@ -1,0 +1,162 @@
+{
+  "backend/alembic/env.py": {
+    "mtime": 1785369487.0864322,
+    "ast_hash": "4e842ffe93a96ea3be3d3e0749275c93",
+    "semantic_hash": "4e842ffe93a96ea3be3d3e0749275c93"
+  },
+  "backend/app/__init__.py": {
+    "mtime": 1785369487.0875437,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "backend/app/api/__init__.py": {
+    "mtime": 1785369487.0879042,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "backend/app/api/auth.py": {
+    "mtime": 1785369487.0882263,
+    "ast_hash": "db114c821913752a5a4a9dd26b7b1ead",
+    "semantic_hash": "db114c821913752a5a4a9dd26b7b1ead"
+  },
+  "backend/app/api/deps.py": {
+    "mtime": 1785369487.0884595,
+    "ast_hash": "426db2a2b488e9f5e76a1c1b9f1569e6",
+    "semantic_hash": "426db2a2b488e9f5e76a1c1b9f1569e6"
+  },
+  "backend/app/api/feed.py": {
+    "mtime": 1785369487.0886865,
+    "ast_hash": "afefc243677e33a0e546ec46b362e773",
+    "semantic_hash": "afefc243677e33a0e546ec46b362e773"
+  },
+  "backend/app/api/follows.py": {
+    "mtime": 1785369487.088984,
+    "ast_hash": "99bba7d36b2a4744f3e7c8bdef385757",
+    "semantic_hash": "99bba7d36b2a4744f3e7c8bdef385757"
+  },
+  "backend/app/api/games.py": {
+    "mtime": 1785369487.0895648,
+    "ast_hash": "d57b78e636042be16d8c6ae7d371c38a",
+    "semantic_hash": "d57b78e636042be16d8c6ae7d371c38a"
+  },
+  "backend/app/api/recommendations.py": {
+    "mtime": 1785369487.0900853,
+    "ast_hash": "bee3517ec9d23155590a5db746ca5957",
+    "semantic_hash": "bee3517ec9d23155590a5db746ca5957"
+  },
+  "backend/app/api/reviews.py": {
+    "mtime": 1785369487.0903523,
+    "ast_hash": "b23827a30207dca8228a4666da4eb33c",
+    "semantic_hash": "b23827a30207dca8228a4666da4eb33c"
+  },
+  "backend/app/core/__init__.py": {
+    "mtime": 1785369487.0909176,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "backend/app/core/config.py": {
+    "mtime": 1785369487.0913255,
+    "ast_hash": "c66a4e8306207cb1420e784a59f842e5",
+    "semantic_hash": "c66a4e8306207cb1420e784a59f842e5"
+  },
+  "backend/app/core/security.py": {
+    "mtime": 1785369487.091701,
+    "ast_hash": "f5a8761dbd83cbc378b4af52c0832e82",
+    "semantic_hash": "f5a8761dbd83cbc378b4af52c0832e82"
+  },
+  "backend/app/db/__init__.py": {
+    "mtime": 1785369487.092307,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "backend/app/db/session.py": {
+    "mtime": 1785369487.0925434,
+    "ast_hash": "b8af784e1c5e644857e043fdf9e8555d",
+    "semantic_hash": "b8af784e1c5e644857e043fdf9e8555d"
+  },
+  "backend/app/main.py": {
+    "mtime": 1785369487.0929186,
+    "ast_hash": "4edcf9a2c6fa2e0949dbfa100dc053cc",
+    "semantic_hash": "4edcf9a2c6fa2e0949dbfa100dc053cc"
+  },
+  "backend/app/models/__init__.py": {
+    "mtime": 1785369487.0932586,
+    "ast_hash": "c79d99480ee98084b728aafaced5c7e2",
+    "semantic_hash": "c79d99480ee98084b728aafaced5c7e2"
+  },
+  "backend/app/models/follow.py": {
+    "mtime": 1785369487.093565,
+    "ast_hash": "c8bb3c0ac59b5f0c00e371da718b1f46",
+    "semantic_hash": "c8bb3c0ac59b5f0c00e371da718b1f46"
+  },
+  "backend/app/models/game.py": {
+    "mtime": 1785369487.093949,
+    "ast_hash": "7a29f85f95b240e2f5f5540cb0678ef6",
+    "semantic_hash": "7a29f85f95b240e2f5f5540cb0678ef6"
+  },
+  "backend/app/models/game_list.py": {
+    "mtime": 1785369487.0942824,
+    "ast_hash": "95bcaed79594886b3c1144f88869ab4e",
+    "semantic_hash": "95bcaed79594886b3c1144f88869ab4e"
+  },
+  "backend/app/models/like.py": {
+    "mtime": 1785369487.094597,
+    "ast_hash": "6a196f0067e46d50f9ba125f09791d0d",
+    "semantic_hash": "6a196f0067e46d50f9ba125f09791d0d"
+  },
+  "backend/app/models/review.py": {
+    "mtime": 1785369487.094887,
+    "ast_hash": "842be4d16cdadc0acf5bcf04b96de22e",
+    "semantic_hash": "842be4d16cdadc0acf5bcf04b96de22e"
+  },
+  "backend/app/models/user.py": {
+    "mtime": 1785369487.0952334,
+    "ast_hash": "2ad304dfb7368a7709b7d217e84b7933",
+    "semantic_hash": "2ad304dfb7368a7709b7d217e84b7933"
+  },
+  "backend/app/schemas/__init__.py": {
+    "mtime": 1785369487.0956912,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "backend/app/schemas/follow.py": {
+    "mtime": 1785369487.0959554,
+    "ast_hash": "d6e27b1c512d22635cef8e469a76e093",
+    "semantic_hash": "d6e27b1c512d22635cef8e469a76e093"
+  },
+  "backend/app/schemas/game.py": {
+    "mtime": 1785369487.0962162,
+    "ast_hash": "5758319d5cf1396430894eb4f0fbcf37",
+    "semantic_hash": "5758319d5cf1396430894eb4f0fbcf37"
+  },
+  "backend/app/schemas/review.py": {
+    "mtime": 1785369487.096394,
+    "ast_hash": "7ed14c230c08774a1266749abaf07e22",
+    "semantic_hash": "7ed14c230c08774a1266749abaf07e22"
+  },
+  "backend/app/schemas/user.py": {
+    "mtime": 1785369487.0966213,
+    "ast_hash": "1cf95857a45f99ac1964bd8b16ac24ac",
+    "semantic_hash": "1cf95857a45f99ac1964bd8b16ac24ac"
+  },
+  "backend/app/services/__init__.py": {
+    "mtime": 1785369487.0969925,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "backend/app/services/rawg_client.py": {
+    "mtime": 1785369487.097271,
+    "ast_hash": "de5d649b500d6e38bda6303a624279c5",
+    "semantic_hash": "de5d649b500d6e38bda6303a624279c5"
+  },
+  "backend/README.md": {
+    "mtime": 1785369487.0856438,
+    "ast_hash": "3eeb0350100c0256f35cf2920f92fd71",
+    "semantic_hash": "3eeb0350100c0256f35cf2920f92fd71"
+  },
+  "backend/requirements.txt": {
+    "mtime": 1785369487.0975847,
+    "ast_hash": "9859813cefa1ea07741df96569d417b4",
+    "semantic_hash": "9859813cefa1ea07741df96569d417b4"
+  }
+}
